@@ -72,8 +72,6 @@ newspapers.forEach(newspaper => {
                 source: newspaper.name
             })
         })
-
-
     })
 })
 
